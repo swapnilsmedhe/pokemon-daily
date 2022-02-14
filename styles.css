@@ -1,0 +1,58 @@
+h1,
+h2 {
+  margin: 0;
+}
+
+.page {
+  font-family: sans-serif;
+  width: 900px;
+  margin: 0px auto;
+}
+
+.border-bottom {
+  border-bottom: 1px solid black;
+}
+
+.masthead {
+  padding: 15px 0px;
+  margin-bottom: 30px;
+}
+
+.align-center {
+  text-align: center;
+}
+
+article {
+  margin: 10px;
+  font-weight: 200;
+}
+
+.byline {
+  margin: 0px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+}
+
+.caption {
+  font-weight: 400;
+}
+
+.article-body {
+  font-size: 18px;
+  line-height: 1.4em;
+}
+
+.quote {
+  font-family: serif;
+  font-weight: 400;
+  border-left: 5px solid rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  margin: 20px 0px;
+}
